@@ -1,0 +1,17 @@
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+.idea/
+.vscode/
+android/local.properties
+*.jks
+*.keystore
+.env
+android/.kotlin/
+
+
+android/hs_err_pid*.log
+
